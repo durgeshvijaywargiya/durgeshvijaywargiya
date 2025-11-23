@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Durgesh  
 ### Full-Stack Java Developer | Spring Boot | React/Angular | REST APIs
 
-I’m a Full-Stack Developer with hands-on experience in designing, developing, and maintaining web applications using **Java**, **Spring Boot**, and **modern frontend frameworks**. I work across the entire development lifecycle — from building REST APIs to implementing responsive UI and ensuring smooth deployments using industry-standard tools.
+I’m a Full-Stack Developer with hands-on experience in designing, developing, and maintaining web applications using **Java**, **Spring Boot**, and **modern frontend frameworks**.
 
 ---
 
@@ -9,9 +9,7 @@ I’m a Full-Stack Developer with hands-on experience in designing, developing, 
 
 ### **Backend**
 - Java • Spring Boot • Spring MVC  
-- RESTful API development  
-- JPA/Hibernate • Validation • Exception Handling  
-- Maven • Postman • JSON/XML  
+- JPA/Hibernate • Validation • Exception Handling   
 - MySQL/PostgreSQL basics  
 
 ### **Frontend**
@@ -20,9 +18,7 @@ I’m a Full-Stack Developer with hands-on experience in designing, developing, 
 
 ### **Tools & Practices**
 - Git • GitHub  
-- IntelliJ IDEA  
-- Basic CI/CD workflows  
-- Docker fundamentals  
+- IntelliJ IDEA   
 - Agile & Scrum methodology  
 
 ---
@@ -31,7 +27,6 @@ I’m a Full-Stack Developer with hands-on experience in designing, developing, 
 - Clean architecture approach  
 - Consistent coding standards  
 - Strong debugging mindset  
-- Good understanding of full-stack workflows  
 - Practical experience with real-world application development  
 
 ---
